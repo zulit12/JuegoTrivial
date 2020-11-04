@@ -1,5 +1,7 @@
 # JuegoTrivial
 
+![imagen](https://alijuguetes.es/img/hyl_lan/13.jpg)
+
 
 # INSTRUCCIONES
   Contestar correctamente las 10 preguntas.
